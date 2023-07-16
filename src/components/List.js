@@ -84,19 +84,19 @@ const DataOfList = () => {
       id: 1,
       description: "appointment with the construction company",
       date: "12/10/2023",
-      completed: false,
+  
     },
     {
       id: 2,
       description: "Shopping for the trip",
       date: "18/7/2023",
-      completed: false,
+     
     },
     {
       id: 3,
       description: "I have meeting with sara",
       date: "20/7/2023",
-      completed: false,
+      
     },
   ]);
   const handlelistsubmit = (newtodo) => {
