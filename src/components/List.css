@@ -1,0 +1,52 @@
+.table{
+    width: 20% !important;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+.button{
+    margin-top: 5% !important;
+    border:2px solid black;
+    box-shadow: 1px 1px 1px goldenrod;
+font: 1em sans-serif;
+}
+.button:hover {
+    background: rgba(85, 101, 141, 0.552);
+}
+.button2{
+   
+    display: flex;
+    margin-top: 6% !important;
+    border:2px solid black;
+    box-shadow: 1px 1px 1px goldenrod;
+font:1em sans-serif ;
+margin-left: -23%;
+}
+h2{
+    text-align : center!important;
+    font-size:3rem;
+    color:#29178f !important;
+    padding:6vh  0vw;
+    text-shadow: 1px 2px goldenrod !important;
+}
+#label{
+ margin-left:12px ;
+    margin-bottom: 1%;
+    font-size: medium;
+    font:1em sans-serif ;
+
+
+} 
+input{
+    margin-left: 12px !important;
+    box-shadow: 1px 1px 1px goldenrod;
+    padding: 5px;
+   
+}
+ form{
+    display: flex !important;
+    flex-direction: row ;
+   
+  
+margin-left: 25%;
+
+ }
