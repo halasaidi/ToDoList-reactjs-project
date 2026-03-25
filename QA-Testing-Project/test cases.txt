@@ -1,0 +1,38 @@
+Test Case 1
+Title : Add new task 
+   steps:
+           1-Enter a task
+           2-Click Add
+   Expected:
+   Task is added to the list
+________________________
+ Test Case 2         
+Title : Delete completed task
+   steps:
+           1-Add a task
+           2-click finish button
+           
+   Expected:
+   Task is removed from the list
+
+__________________________
+
+Test Case 3 
+Title : Add task with empty input
+   steps:
+           1-leave input empty
+           2- Click Add
+       
+   Expected:
+    Error message appears
+__________________________
+
+Test Case 3 
+Title : Check Add button on mobile screen
+
+   steps:
+           1-open To-do list website
+           2-switch to mobile view
+           3-check the Add button
+   Expected:
+    Add button is visible and clickable

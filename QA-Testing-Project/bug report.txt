@@ -1,0 +1,35 @@
+Bug 1
+Title : Empty task is added
+   steps:
+           1-leave input field empty
+           2- Click Add button
+       
+   Expected:
+    Error message appears and task should not be added
+
+   Actual:
+   Empty task is added to the list
+
+   severity: Medium
+   priority: High
+   Type: Functional / UI
+  
+
+__________________________
+
+Bug 1
+Title : Add button not visible on mobile screen
+   steps:
+           1-open to do list website 
+           2- switch to mobile view
+           3- check the Add button 
+       
+   Expected:
+   Add button should be visible and clickable
+
+   Actual:
+   Add button is not visible on mobile screen 
+
+   severity: Medium
+   priority: High
+   Type:UI/ Responsive
